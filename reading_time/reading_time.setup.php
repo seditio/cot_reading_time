@@ -3,12 +3,12 @@
 [BEGIN_COT_EXT]
 Code=reading_time
 Name=Reading Time
-Description=Displays article reading time
-Version=1.00
-Date=2020-08-17
+Description=Displays post reading time
+Version=1.00b
+Date=2025-12-29
 Category=navigation-structure
 Author=Dmitri Beliavski
-Copyright=&copy; 2020 seditio.by
+Copyright=&copy; 2025 SED.by
 Notes=
 Auth_guests=R
 Lock_guests=12345AW
