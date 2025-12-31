@@ -14,4 +14,5 @@ All TPL-tags are included in the array produced by the cot_generate_pagetags() f
 - LENGTH_TITLE (length of page title)
 - LENGTH_DESCRIPTION (length of page description)
 - LENGTH_TEXT (length of page text)
+
 You can place those in the corresponding templates using prefixes PAGE_, PAGE_ROW_, LIST_ROW_ etc.
