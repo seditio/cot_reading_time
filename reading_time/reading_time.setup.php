@@ -19,6 +19,7 @@ Lock_members=12345AW
 fields_plain=01:string::page_title, page_desc:MySQL fields to count (plain text)
 fields_html=02:string::page_text:MySQL fields to count (HTML)
 wpm=03:string::200:Reading speed
+extras=04:radio::0:Generate extra pagetags
 [END_COT_EXT_CONFIG]
 ==================== */
 
